@@ -1,0 +1,20 @@
+header{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+}
+
+nav
+{
+    float: left;
+    width: 150px;
+    border: 1px solid black;
+}
+
+section
+{
+    margin-left: 170px;
+    border: 1px solid blue;
+}
